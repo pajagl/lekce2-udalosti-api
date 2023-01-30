@@ -62,7 +62,7 @@ li {
 .tlacitko {
 	display: inline-block;
 	font-family: Monserrat, sans-serif;
-	font-size: 36px;
+	font-size: 12px;
 	font-weight: bold;
 	color: #fff;
 	text-decoration: none;
@@ -115,9 +115,20 @@ li {
 	border-color: green;
 }
 
-
 .aktivni {
 	background-color: cyan;
 	color: black;
 	border-color: blue;
+}
+
+.mojetrida {
+	font-size: 16px;
+}
+
+.tucny {
+	font-weight: bold;
+}
+
+.cerveny {
+	color: red;
 }
