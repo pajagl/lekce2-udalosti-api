@@ -14,7 +14,7 @@ function ztucniText() {
 // červená po kliknutí - toggle
 
 function cerveneKouzlo() {
-    let redtlacitko = document.querySelector (".cerveneTlacitko");
+    let redtlacitko = document.querySelector (".odstavec");
     redtlacitko.classList.toggle("cerveny");
 }
 
